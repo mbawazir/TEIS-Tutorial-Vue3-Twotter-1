@@ -3,7 +3,7 @@
     <nav>
       <router-link to="/">
         <div class="navigation__logo">
-          Twotter
+          Twotter for stc
         </div>
       </router-link>
       <div class="navigation__user" v-if="user">
